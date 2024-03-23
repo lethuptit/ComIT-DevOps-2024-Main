@@ -1,0 +1,6 @@
+[submodule "DevOps_Python"]
+	path = DevOps_Python
+	url = git@github.com:lethuptit/DevOps_Python.git
+[submodule "wordsmith"]
+	path = wordsmith
+	url = git@github.com:lethuptit/wordsmith.git
