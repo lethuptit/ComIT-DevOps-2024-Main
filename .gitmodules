@@ -4,3 +4,6 @@
 [submodule "wordsmith"]
 	path = wordsmith
 	url = git@github.com:lethuptit/wordsmith.git
+[submodule "ComIT-Project"]
+	path = ComIT-Project
+	url = git@github.com:lethuptit/ComIT-Project.git
