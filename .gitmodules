@@ -10,3 +10,6 @@
 [submodule "python_feedback_app"]
 	path = python_feedback_app
 	url = git@github.com:lethuptit/python_feedback_app.git
+[submodule "ansible-aws-cli"]
+	path = ansible-aws-cli
+	url = git@github.com:lethuptit/ansible-aws-cli.git
